@@ -33,17 +33,15 @@ export const products: Product[] = [
 
   // JEANS (jean1 - jean17)
   { id: "jean1", name: "Chino Recto - Negro Esencial", category: "JEANS", price: 40000, image: `images/jean1.jpeg`, sizes: ["S", "M", "L", "XL"], featured: true },
-  { id: "jean2", name: "Jean Slim - Azul Oscuro", category: "JEANS", price: 35000, image: `images/jean2.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean3", name: "Jean Straight - Negro", category: "JEANS", price: 35000, image: `images/jean3.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean4", name: "Jean Baggy - Azul Claro", category: "JEANS", price: 35000, image: `images/jean4.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean5", name: "Jean Cargo - Verde", category: "JEANS", price: 35000, image: `images/jean5.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean2", name: "Jean Slim - Oscuro", category: "JEANS", price: 35000, image: `images/jean2.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean3", name: "Jean baggy - verde", category: "JEANS", price: 35000, image: `images/jean3.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean4", name: "Jean Baggy - ", category: "JEANS", price: 35000, image: `images/jean4.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "jean6", name: "Jean Relaxed - Gris", category: "JEANS", price: 35000, image: `images/jean6.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean7", name: "Jean Classic - Indigo", category: "JEANS", price: 35000, image: `images/jean7.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean8", name: "Jean Skinny - Negro", category: "JEANS", price: 35000, image: `images/jean8.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean9", name: "Jean Wide - Azul Medio", category: "JEANS", price: 35000, image: `images/jean9.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean10", name: "Jean Tapered - Carbón", category: "JEANS", price: 35000, image: `images/jean10.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean11", name: "Jean Distressed - Azul", category: "JEANS", price: 35000, image: `images/jean11.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "jean12", name: "Jean Premium - Negro", category: "JEANS", price: 35000, image: `images/jean12.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean8", name: "Jean  - Negro", category: "JEANS", price: 35000, image: `images/jean8.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean9", name: "Jean ", category: "JEANS", price: 35000, image: `images/jean9.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean10", name: "Jean ", category: "JEANS", price: 35000, image: `images/jean10.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean11", name: "Jean ", category: "JEANS", price: 35000, image: `images/jean11.jpeg`, sizes: ["S", "M", "L", "XL"] },
+  { id: "jean12", name: "Jean ", category: "JEANS", price: 35000, image: `images/jean12.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "jean13", name: "Jean Urban - Gris Oscuro", category: "JEANS", price: 35000, image: `images/jean13.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "jean14", name: "Jean Tech - Negro", category: "JEANS", price: 35000, image: `images/jean14.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "jean15", name: "Jean Essential - Azul", category: "JEANS", price: 35000, image: `images/jean15.jpeg`, sizes: ["S", "M", "L", "XL"] },
@@ -66,7 +64,6 @@ export const products: Product[] = [
   { id: "campera12", name: "Campera Tech - Negra", category: "CAMPERAS", price: 30000, image: `images/campera12.jpeg`, sizes: ["S", "M", "L", "XL"] },
 
   // JOGGINGS (joggin1 - joggin12)
-  { id: "joggin1", name: "Conjunto Tech Fit - Azul Escolar", category: "JOGGINGS", price: 30000, image: `images/joggin1.jpeg`, sizes: ["S", "M", "L", "XL"], featured: true },
   { id: "joggin2", name: "Joggin Relaxed - Negro", category: "JOGGINGS", price: 30000, image: `images/joggin2.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "joggin3", name: "Joggin Cargo - Gris", category: "JOGGINGS", price: 30000, image: `images/joggin3.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "joggin4", name: "Joggin Sport -gris", category: "JOGGINGS", price: 15000, image: `images/joggin4.jpeg`, sizes: ["S", "M", "L", "XL"] },
