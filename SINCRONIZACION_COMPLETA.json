@@ -1,0 +1,679 @@
+{
+  "timestamp": "2026-06-17T20:37:20.332Z",
+  "summary": {
+    "totalImages": 93,
+    "totalProducts": 93,
+    "syncStatus": "✅ PERFECTO"
+  },
+  "productsByCategory": {
+    "remera": 13,
+    "conjunto": 7,
+    "jogging": 6,
+    "accesorios": 24,
+    "buzo": 14,
+    "campera": 12,
+    "jean": 17
+  },
+  "imagesByCategory": {
+    "accesorios": 24,
+    "buzo": 14,
+    "campera": 12,
+    "conjunto": 7,
+    "jean": 17,
+    "jogging": 6,
+    "remera": 13
+  },
+  "products": [
+    {
+      "id": "p0001",
+      "nombre": "Remera Basic - Negra",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera1.jpeg",
+      "precio": 4999
+    },
+    {
+      "id": "p0002",
+      "nombre": "Remera Logo - Blanca",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera2.jpeg",
+      "precio": 4999
+    },
+    {
+      "id": "p0003",
+      "nombre": "remera8 Kode 4",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera8.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0004",
+      "nombre": "remera7 Kode 5",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera7.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0005",
+      "nombre": "remera6 Kode 6",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera6.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0006",
+      "nombre": "remera5 Kode 7",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera5.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0007",
+      "nombre": "remera4 Kode 8",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera4.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0008",
+      "nombre": "remera15 Kode 10",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera15.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0009",
+      "nombre": "remera14 Kode 11",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera14.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0010",
+      "nombre": "remera13 Kode 12",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera13.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0011",
+      "nombre": "remera12 Kode 13",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera12.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0012",
+      "nombre": "remera11 Kode 14",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera11.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0013",
+      "nombre": "remera10 Kode 15",
+      "categoria": "remera",
+      "ruta_imagen": "/images/remera10.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0014",
+      "nombre": "oufit1 Kode 17",
+      "categoria": "conjunto",
+      "ruta_imagen": "/images/oufit1.jpeg",
+      "precio": 12999
+    },
+    {
+      "id": "p0015",
+      "nombre": "joggin7 Kode 18",
+      "categoria": "jogging",
+      "ruta_imagen": "/images/joggin7.jpeg",
+      "precio": 3999
+    },
+    {
+      "id": "p0016",
+      "nombre": "joggin6 Kode 19",
+      "categoria": "jogging",
+      "ruta_imagen": "/images/joggin6.jpeg",
+      "precio": 3999
+    },
+    {
+      "id": "p0017",
+      "nombre": "joggin4 Kode 20",
+      "categoria": "jogging",
+      "ruta_imagen": "/images/joggin4.jpeg",
+      "precio": 3999
+    },
+    {
+      "id": "p0018",
+      "nombre": "accesorio - Kode 21",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (1).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0019",
+      "nombre": "accesorio - Kode 22",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (12).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0020",
+      "nombre": "accesorio - Kode 23",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (13).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0021",
+      "nombre": "accesorio - Kode 24",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (14).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0022",
+      "nombre": "accesorio - Kode 25",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (15).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0023",
+      "nombre": "accesorio - Kode 26",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (16).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0024",
+      "nombre": "accesorio - Kode 27",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (17).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0025",
+      "nombre": "accesorio - Kode 28",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (18).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0026",
+      "nombre": "accesorio - Kode 29",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (19).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0027",
+      "nombre": "accesorio - Kode 30",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (2).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0028",
+      "nombre": "accesorio - Kode 31",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (20).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0029",
+      "nombre": "accesorio - Kode 32",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (21).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0030",
+      "nombre": "accesorio - Kode 33",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (22).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0031",
+      "nombre": "accesorio - Kode 34",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (23).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0032",
+      "nombre": "accesorio - Kode 35",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (24).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0033",
+      "nombre": "accesorio - Kode 36",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (3).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0034",
+      "nombre": "accesorio - Kode 37",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (4).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0035",
+      "nombre": "accesorio - Kode 38",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (5).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0036",
+      "nombre": "accesorio - Kode 39",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (6).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0037",
+      "nombre": "accesorio - Kode 40",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (7).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0038",
+      "nombre": "accesorio - Kode 41",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (8).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0039",
+      "nombre": "accesorio - Kode 42",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/accesorio (9).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0040",
+      "nombre": "acessorio - Kode 43",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/acessorio (23).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0041",
+      "nombre": "acessorio - Kode 44",
+      "categoria": "accesorios",
+      "ruta_imagen": "/images/acessorio (24).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0042",
+      "nombre": "buzo1 - Kode 45",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo1.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0043",
+      "nombre": "buzo10 - Kode 46",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo10.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0044",
+      "nombre": "buzo11 - Kode 47",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo11.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0045",
+      "nombre": "buzo12 - Kode 48",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo12.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0046",
+      "nombre": "buzo13 - Kode 49",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo13.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0047",
+      "nombre": "buzo2 - Kode 50",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo2.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0048",
+      "nombre": "buzo3 - Kode 51",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo3.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0049",
+      "nombre": "buzo4 - Kode 52",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo4.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0050",
+      "nombre": "buzo5 - Kode 53",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo5.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0051",
+      "nombre": "buzo6 - Kode 54",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo6 (2).jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0052",
+      "nombre": "buzo6 - Kode 55",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo6.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0053",
+      "nombre": "buzo7 - Kode 56",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo7.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0054",
+      "nombre": "buzo8 - Kode 57",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo8.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0055",
+      "nombre": "buzo9 - Kode 58",
+      "categoria": "buzo",
+      "ruta_imagen": "/images/buzo9.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0056",
+      "nombre": "campera1 - Kode 59",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera1.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0057",
+      "nombre": "campera10 - Kode 60",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera10.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0058",
+      "nombre": "campera11 - Kode 61",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera11.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0059",
+      "nombre": "campera12 - Kode 62",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera12.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0060",
+      "nombre": "campera2 - Kode 63",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera2.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0061",
+      "nombre": "campera3 - Kode 64",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera3.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0062",
+      "nombre": "campera4 - Kode 65",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera4.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0063",
+      "nombre": "campera5 - Kode 66",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera5.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0064",
+      "nombre": "campera6 - Kode 67",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera6.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0065",
+      "nombre": "campera7 - Kode 68",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera7.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0066",
+      "nombre": "campera8 - Kode 69",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera8.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0067",
+      "nombre": "campera9 - Kode 70",
+      "categoria": "campera",
+      "ruta_imagen": "/images/campera9.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0068",
+      "nombre": "conjunto1 - Kode 71",
+      "categoria": "conjunto",
+      "ruta_imagen": "/images/conjunto1.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0069",
+      "nombre": "conjunto2 - Kode 72",
+      "categoria": "conjunto",
+      "ruta_imagen": "/images/conjunto2.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0070",
+      "nombre": "conjunto3 - Kode 73",
+      "categoria": "conjunto",
+      "ruta_imagen": "/images/conjunto3.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0071",
+      "nombre": "conjunto4 - Kode 74",
+      "categoria": "conjunto",
+      "ruta_imagen": "/images/conjunto4.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0072",
+      "nombre": "conjunto5 - Kode 75",
+      "categoria": "conjunto",
+      "ruta_imagen": "/images/conjunto5.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0073",
+      "nombre": "conjunto6 - Kode 76",
+      "categoria": "conjunto",
+      "ruta_imagen": "/images/conjunto6.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0074",
+      "nombre": "jean1 - Kode 77",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean1.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0075",
+      "nombre": "jean10 - Kode 78",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean10.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0076",
+      "nombre": "jean11 - Kode 79",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean11.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0077",
+      "nombre": "jean12 - Kode 80",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean12.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0078",
+      "nombre": "jean13 - Kode 81",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean13.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0079",
+      "nombre": "jean14 - Kode 82",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean14.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0080",
+      "nombre": "jean15 - Kode 83",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean15.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0081",
+      "nombre": "jean16 - Kode 84",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean16.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0082",
+      "nombre": "jean17 - Kode 85",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean17.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0083",
+      "nombre": "jean2 - Kode 86",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean2.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0084",
+      "nombre": "jean3 - Kode 87",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean3.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0085",
+      "nombre": "jean4 - Kode 88",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean4.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0086",
+      "nombre": "jean5 - Kode 89",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean5.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0087",
+      "nombre": "jean6 - Kode 90",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean6.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0088",
+      "nombre": "jean7 - Kode 91",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean7.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0089",
+      "nombre": "jean8 - Kode 92",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean8.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0090",
+      "nombre": "jean9 - Kode 93",
+      "categoria": "jean",
+      "ruta_imagen": "/images/jean9.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0091",
+      "nombre": "joggin1 - Kode 94",
+      "categoria": "jogging",
+      "ruta_imagen": "/images/joggin1.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0092",
+      "nombre": "joggin2 - Kode 95",
+      "categoria": "jogging",
+      "ruta_imagen": "/images/joggin2.jpeg",
+      "precio": 2999
+    },
+    {
+      "id": "p0093",
+      "nombre": "joggin3 - Kode 96",
+      "categoria": "jogging",
+      "ruta_imagen": "/images/joggin3.jpeg",
+      "precio": 2999
+    }
+  ]
+}

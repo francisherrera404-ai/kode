@@ -51,6 +51,44 @@
   },
   {
     "id": "p0003",
+    "nombre": "placeholder-user Kode 2",
+    "descripcion": "Producto Kode: placeholder-user. Imagen original.",
+    "categoria": "otros",
+    "color": "varios",
+    "talles": [
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 1999,
+    "tags": [
+      "otros",
+      "kode"
+    ],
+    "slug": "placeholder-user-2",
+    "ruta_imagen": "/placeholder-user.jpg"
+  },
+  {
+    "id": "p0004",
+    "nombre": "placeholder-logo Kode 3",
+    "descripcion": "Producto Kode: placeholder-logo. Imagen original.",
+    "categoria": "otros",
+    "color": "varios",
+    "talles": [
+      "S",
+      "M",
+      "L"
+    ],
+    "precio": 1999,
+    "tags": [
+      "otros",
+      "kode"
+    ],
+    "slug": "placeholder-logo-3",
+    "ruta_imagen": "/placeholder-logo.png"
+  },
+  {
+    "id": "p0005",
     "nombre": "remera8 Kode 4",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -69,7 +107,7 @@
     "ruta_imagen": "/images/remera8.jpeg"
   },
   {
-    "id": "p0004",
+    "id": "p0006",
     "nombre": "remera7 Kode 5",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -88,7 +126,7 @@
     "ruta_imagen": "/images/remera7.jpeg"
   },
   {
-    "id": "p0005",
+    "id": "p0007",
     "nombre": "remera6 Kode 6",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -107,7 +145,7 @@
     "ruta_imagen": "/images/remera6.jpeg"
   },
   {
-    "id": "p0006",
+    "id": "p0008",
     "nombre": "remera5 Kode 7",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -126,7 +164,7 @@
     "ruta_imagen": "/images/remera5.jpeg"
   },
   {
-    "id": "p0007",
+    "id": "p0009",
     "nombre": "remera4 Kode 8",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -145,7 +183,7 @@
     "ruta_imagen": "/images/remera4.jpeg"
   },
   {
-    "id": "p0008",
+    "id": "p0011",
     "nombre": "remera15 Kode 10",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -164,7 +202,7 @@
     "ruta_imagen": "/images/remera15.jpeg"
   },
   {
-    "id": "p0009",
+    "id": "p0012",
     "nombre": "remera14 Kode 11",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -183,7 +221,7 @@
     "ruta_imagen": "/images/remera14.jpeg"
   },
   {
-    "id": "p0010",
+    "id": "p0013",
     "nombre": "remera13 Kode 12",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -202,7 +240,7 @@
     "ruta_imagen": "/images/remera13.jpeg"
   },
   {
-    "id": "p0011",
+    "id": "p0014",
     "nombre": "remera12 Kode 13",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -221,7 +259,7 @@
     "ruta_imagen": "/images/remera12.jpeg"
   },
   {
-    "id": "p0012",
+    "id": "p0015",
     "nombre": "remera11 Kode 14",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -240,7 +278,7 @@
     "ruta_imagen": "/images/remera11.jpeg"
   },
   {
-    "id": "p0013",
+    "id": "p0016",
     "nombre": "remera10 Kode 15",
     "descripcion": "Producto Kode: remera - color varios.",
     "categoria": "remera",
@@ -259,7 +297,7 @@
     "ruta_imagen": "/images/remera10.jpeg"
   },
   {
-    "id": "p0014",
+    "id": "p0018",
     "nombre": "oufit1 Kode 17",
     "descripcion": "Producto Kode: conjunto - color varios.",
     "categoria": "conjunto",
@@ -278,10 +316,10 @@
     "ruta_imagen": "/images/oufit1.jpeg"
   },
   {
-    "id": "p0015",
+    "id": "p0019",
     "nombre": "joggin7 Kode 18",
     "descripcion": "Producto Kode: joggin - color varios.",
-    "categoria": "jogging",
+    "categoria": "joggin",
     "color": "varios",
     "talles": [
       "S",
@@ -297,10 +335,10 @@
     "ruta_imagen": "/images/joggin7.jpeg"
   },
   {
-    "id": "p0016",
+    "id": "p0020",
     "nombre": "joggin6 Kode 19",
     "descripcion": "Producto Kode: joggin - color varios.",
-    "categoria": "jogging",
+    "categoria": "joggin",
     "color": "varios",
     "talles": [
       "S",
@@ -316,10 +354,10 @@
     "ruta_imagen": "/images/joggin6.jpeg"
   },
   {
-    "id": "p0017",
+    "id": "p0021",
     "nombre": "joggin4 Kode 20",
     "descripcion": "Producto Kode: joggin - color varios.",
-    "categoria": "jogging",
+    "categoria": "joggin",
     "color": "varios",
     "talles": [
       "S",
@@ -335,10 +373,10 @@
     "ruta_imagen": "/images/joggin4.jpeg"
   },
   {
-    "id": "p0018",
+    "id": "p0022",
     "nombre": "accesorio - Kode 21",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -358,10 +396,10 @@
     "destacado": false
   },
   {
-    "id": "p0019",
+    "id": "p0023",
     "nombre": "accesorio - Kode 22",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -381,10 +419,10 @@
     "destacado": false
   },
   {
-    "id": "p0020",
+    "id": "p0024",
     "nombre": "accesorio - Kode 23",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -404,10 +442,10 @@
     "destacado": false
   },
   {
-    "id": "p0021",
+    "id": "p0025",
     "nombre": "accesorio - Kode 24",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -427,10 +465,10 @@
     "destacado": false
   },
   {
-    "id": "p0022",
+    "id": "p0026",
     "nombre": "accesorio - Kode 25",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -450,10 +488,10 @@
     "destacado": false
   },
   {
-    "id": "p0023",
+    "id": "p0027",
     "nombre": "accesorio - Kode 26",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -473,10 +511,10 @@
     "destacado": false
   },
   {
-    "id": "p0024",
+    "id": "p0028",
     "nombre": "accesorio - Kode 27",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -496,10 +534,10 @@
     "destacado": false
   },
   {
-    "id": "p0025",
+    "id": "p0029",
     "nombre": "accesorio - Kode 28",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -519,10 +557,10 @@
     "destacado": false
   },
   {
-    "id": "p0026",
+    "id": "p0030",
     "nombre": "accesorio - Kode 29",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -542,10 +580,10 @@
     "destacado": false
   },
   {
-    "id": "p0027",
+    "id": "p0031",
     "nombre": "accesorio - Kode 30",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -565,10 +603,10 @@
     "destacado": false
   },
   {
-    "id": "p0028",
+    "id": "p0032",
     "nombre": "accesorio - Kode 31",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -588,10 +626,10 @@
     "destacado": false
   },
   {
-    "id": "p0029",
+    "id": "p0033",
     "nombre": "accesorio - Kode 32",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -611,10 +649,10 @@
     "destacado": false
   },
   {
-    "id": "p0030",
+    "id": "p0034",
     "nombre": "accesorio - Kode 33",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -634,10 +672,10 @@
     "destacado": false
   },
   {
-    "id": "p0031",
+    "id": "p0035",
     "nombre": "accesorio - Kode 34",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -657,10 +695,10 @@
     "destacado": false
   },
   {
-    "id": "p0032",
+    "id": "p0036",
     "nombre": "accesorio - Kode 35",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -680,10 +718,10 @@
     "destacado": false
   },
   {
-    "id": "p0033",
+    "id": "p0037",
     "nombre": "accesorio - Kode 36",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -703,10 +741,10 @@
     "destacado": false
   },
   {
-    "id": "p0034",
+    "id": "p0038",
     "nombre": "accesorio - Kode 37",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -726,10 +764,10 @@
     "destacado": false
   },
   {
-    "id": "p0035",
+    "id": "p0039",
     "nombre": "accesorio - Kode 38",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -749,10 +787,10 @@
     "destacado": false
   },
   {
-    "id": "p0036",
+    "id": "p0040",
     "nombre": "accesorio - Kode 39",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -772,10 +810,10 @@
     "destacado": false
   },
   {
-    "id": "p0037",
+    "id": "p0041",
     "nombre": "accesorio - Kode 40",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -795,10 +833,10 @@
     "destacado": false
   },
   {
-    "id": "p0038",
+    "id": "p0042",
     "nombre": "accesorio - Kode 41",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -818,10 +856,10 @@
     "destacado": false
   },
   {
-    "id": "p0039",
+    "id": "p0043",
     "nombre": "accesorio - Kode 42",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -841,10 +879,10 @@
     "destacado": false
   },
   {
-    "id": "p0040",
+    "id": "p0044",
     "nombre": "acessorio - Kode 43",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -864,10 +902,10 @@
     "destacado": false
   },
   {
-    "id": "p0041",
+    "id": "p0045",
     "nombre": "acessorio - Kode 44",
     "descripcion": "Producto Kode: accesorios. Imagen original.",
-    "categoria": "accesorios",
+    "categoria": "acceorios",
     "color": "varios",
     "talles": [
       "XS",
@@ -887,7 +925,7 @@
     "destacado": false
   },
   {
-    "id": "p0042",
+    "id": "p0046",
     "nombre": "buzo1 - Kode 45",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -910,7 +948,7 @@
     "destacado": false
   },
   {
-    "id": "p0043",
+    "id": "p0047",
     "nombre": "buzo10 - Kode 46",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -933,7 +971,7 @@
     "destacado": false
   },
   {
-    "id": "p0044",
+    "id": "p0048",
     "nombre": "buzo11 - Kode 47",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -956,7 +994,7 @@
     "destacado": false
   },
   {
-    "id": "p0045",
+    "id": "p0049",
     "nombre": "buzo12 - Kode 48",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -979,7 +1017,7 @@
     "destacado": false
   },
   {
-    "id": "p0046",
+    "id": "p0050",
     "nombre": "buzo13 - Kode 49",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1002,7 +1040,7 @@
     "destacado": false
   },
   {
-    "id": "p0047",
+    "id": "p0051",
     "nombre": "buzo2 - Kode 50",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1025,7 +1063,7 @@
     "destacado": false
   },
   {
-    "id": "p0048",
+    "id": "p0052",
     "nombre": "buzo3 - Kode 51",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1048,7 +1086,7 @@
     "destacado": false
   },
   {
-    "id": "p0049",
+    "id": "p0053",
     "nombre": "buzo4 - Kode 52",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1071,7 +1109,7 @@
     "destacado": false
   },
   {
-    "id": "p0050",
+    "id": "p0054",
     "nombre": "buzo5 - Kode 53",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1094,7 +1132,7 @@
     "destacado": false
   },
   {
-    "id": "p0051",
+    "id": "p0055",
     "nombre": "buzo6 - Kode 54",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1117,7 +1155,7 @@
     "destacado": false
   },
   {
-    "id": "p0052",
+    "id": "p0056",
     "nombre": "buzo6 - Kode 55",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1140,7 +1178,7 @@
     "destacado": false
   },
   {
-    "id": "p0053",
+    "id": "p0057",
     "nombre": "buzo7 - Kode 56",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1163,7 +1201,7 @@
     "destacado": false
   },
   {
-    "id": "p0054",
+    "id": "p0058",
     "nombre": "buzo8 - Kode 57",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1186,7 +1224,7 @@
     "destacado": false
   },
   {
-    "id": "p0055",
+    "id": "p0059",
     "nombre": "buzo9 - Kode 58",
     "descripcion": "Producto Kode: buzos. Imagen original.",
     "categoria": "buzo",
@@ -1209,7 +1247,7 @@
     "destacado": false
   },
   {
-    "id": "p0056",
+    "id": "p0060",
     "nombre": "campera1 - Kode 59",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1232,7 +1270,7 @@
     "destacado": false
   },
   {
-    "id": "p0057",
+    "id": "p0061",
     "nombre": "campera10 - Kode 60",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1255,7 +1293,7 @@
     "destacado": false
   },
   {
-    "id": "p0058",
+    "id": "p0062",
     "nombre": "campera11 - Kode 61",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1278,7 +1316,7 @@
     "destacado": false
   },
   {
-    "id": "p0059",
+    "id": "p0063",
     "nombre": "campera12 - Kode 62",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1301,7 +1339,7 @@
     "destacado": false
   },
   {
-    "id": "p0060",
+    "id": "p0064",
     "nombre": "campera2 - Kode 63",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1324,7 +1362,7 @@
     "destacado": false
   },
   {
-    "id": "p0061",
+    "id": "p0065",
     "nombre": "campera3 - Kode 64",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1347,7 +1385,7 @@
     "destacado": false
   },
   {
-    "id": "p0062",
+    "id": "p0066",
     "nombre": "campera4 - Kode 65",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1370,7 +1408,7 @@
     "destacado": false
   },
   {
-    "id": "p0063",
+    "id": "p0067",
     "nombre": "campera5 - Kode 66",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1393,7 +1431,7 @@
     "destacado": false
   },
   {
-    "id": "p0064",
+    "id": "p0068",
     "nombre": "campera6 - Kode 67",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1416,7 +1454,7 @@
     "destacado": false
   },
   {
-    "id": "p0065",
+    "id": "p0069",
     "nombre": "campera7 - Kode 68",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1439,7 +1477,7 @@
     "destacado": false
   },
   {
-    "id": "p0066",
+    "id": "p0070",
     "nombre": "campera8 - Kode 69",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1462,7 +1500,7 @@
     "destacado": false
   },
   {
-    "id": "p0067",
+    "id": "p0071",
     "nombre": "campera9 - Kode 70",
     "descripcion": "Producto Kode: camperas. Imagen original.",
     "categoria": "campera",
@@ -1485,7 +1523,7 @@
     "destacado": false
   },
   {
-    "id": "p0068",
+    "id": "p0072",
     "nombre": "conjunto1 - Kode 71",
     "descripcion": "Producto Kode: conjuntos. Imagen original.",
     "categoria": "conjunto",
@@ -1508,7 +1546,7 @@
     "destacado": false
   },
   {
-    "id": "p0069",
+    "id": "p0073",
     "nombre": "conjunto2 - Kode 72",
     "descripcion": "Producto Kode: conjuntos. Imagen original.",
     "categoria": "conjunto",
@@ -1531,7 +1569,7 @@
     "destacado": false
   },
   {
-    "id": "p0070",
+    "id": "p0074",
     "nombre": "conjunto3 - Kode 73",
     "descripcion": "Producto Kode: conjuntos. Imagen original.",
     "categoria": "conjunto",
@@ -1554,7 +1592,7 @@
     "destacado": false
   },
   {
-    "id": "p0071",
+    "id": "p0075",
     "nombre": "conjunto4 - Kode 74",
     "descripcion": "Producto Kode: conjuntos. Imagen original.",
     "categoria": "conjunto",
@@ -1577,7 +1615,7 @@
     "destacado": false
   },
   {
-    "id": "p0072",
+    "id": "p0076",
     "nombre": "conjunto5 - Kode 75",
     "descripcion": "Producto Kode: conjuntos. Imagen original.",
     "categoria": "conjunto",
@@ -1600,7 +1638,7 @@
     "destacado": false
   },
   {
-    "id": "p0073",
+    "id": "p0077",
     "nombre": "conjunto6 - Kode 76",
     "descripcion": "Producto Kode: conjuntos. Imagen original.",
     "categoria": "conjunto",
@@ -1623,7 +1661,7 @@
     "destacado": false
   },
   {
-    "id": "p0074",
+    "id": "p0078",
     "nombre": "jean1 - Kode 77",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1646,7 +1684,7 @@
     "destacado": false
   },
   {
-    "id": "p0075",
+    "id": "p0079",
     "nombre": "jean10 - Kode 78",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1669,7 +1707,7 @@
     "destacado": false
   },
   {
-    "id": "p0076",
+    "id": "p0080",
     "nombre": "jean11 - Kode 79",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1692,7 +1730,7 @@
     "destacado": false
   },
   {
-    "id": "p0077",
+    "id": "p0081",
     "nombre": "jean12 - Kode 80",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1715,7 +1753,7 @@
     "destacado": false
   },
   {
-    "id": "p0078",
+    "id": "p0082",
     "nombre": "jean13 - Kode 81",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1738,7 +1776,7 @@
     "destacado": false
   },
   {
-    "id": "p0079",
+    "id": "p0083",
     "nombre": "jean14 - Kode 82",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1761,7 +1799,7 @@
     "destacado": false
   },
   {
-    "id": "p0080",
+    "id": "p0084",
     "nombre": "jean15 - Kode 83",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1784,7 +1822,7 @@
     "destacado": false
   },
   {
-    "id": "p0081",
+    "id": "p0085",
     "nombre": "jean16 - Kode 84",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1807,7 +1845,7 @@
     "destacado": false
   },
   {
-    "id": "p0082",
+    "id": "p0086",
     "nombre": "jean17 - Kode 85",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1830,7 +1868,7 @@
     "destacado": false
   },
   {
-    "id": "p0083",
+    "id": "p0087",
     "nombre": "jean2 - Kode 86",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1853,7 +1891,7 @@
     "destacado": false
   },
   {
-    "id": "p0084",
+    "id": "p0088",
     "nombre": "jean3 - Kode 87",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1876,7 +1914,7 @@
     "destacado": false
   },
   {
-    "id": "p0085",
+    "id": "p0089",
     "nombre": "jean4 - Kode 88",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1899,7 +1937,7 @@
     "destacado": false
   },
   {
-    "id": "p0086",
+    "id": "p0090",
     "nombre": "jean5 - Kode 89",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1922,7 +1960,7 @@
     "destacado": false
   },
   {
-    "id": "p0087",
+    "id": "p0091",
     "nombre": "jean6 - Kode 90",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1945,7 +1983,7 @@
     "destacado": false
   },
   {
-    "id": "p0088",
+    "id": "p0092",
     "nombre": "jean7 - Kode 91",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1968,7 +2006,7 @@
     "destacado": false
   },
   {
-    "id": "p0089",
+    "id": "p0093",
     "nombre": "jean8 - Kode 92",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -1991,7 +2029,7 @@
     "destacado": false
   },
   {
-    "id": "p0090",
+    "id": "p0094",
     "nombre": "jean9 - Kode 93",
     "descripcion": "Producto Kode: jeans. Imagen original.",
     "categoria": "jean",
@@ -2014,7 +2052,7 @@
     "destacado": false
   },
   {
-    "id": "p0091",
+    "id": "p0095",
     "nombre": "joggin1 - Kode 94",
     "descripcion": "Producto Kode: joggings. Imagen original.",
     "categoria": "jogging",
@@ -2037,7 +2075,7 @@
     "destacado": false
   },
   {
-    "id": "p0092",
+    "id": "p0096",
     "nombre": "joggin2 - Kode 95",
     "descripcion": "Producto Kode: joggings. Imagen original.",
     "categoria": "jogging",
@@ -2060,7 +2098,7 @@
     "destacado": false
   },
   {
-    "id": "p0093",
+    "id": "p0097",
     "nombre": "joggin3 - Kode 96",
     "descripcion": "Producto Kode: joggings. Imagen original.",
     "categoria": "jogging",

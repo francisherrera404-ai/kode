@@ -74,7 +74,6 @@ export const products: Product[] = [
   // REMERAS (remera1 - remera15)
  
   { id: "remera2", name: "Remera Logo - Blanca", category: "REMERAS", price: 20000, image: `images/remera2.jpeg`, sizes: ["S", "M", "L", "XL"] },
-  { id: "remera3", name: "Remera Oversized - Gris", category: "REMERAS", price: 20000, image: `images/remera3.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "remera4", name: "Remera Print - Negra", category: "REMERAS", price: 20000, image: `images/remera4.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "remera5", name: "Remera Essential - Blanca", category: "REMERAS", price: 20000, image: `images/remera5.jpeg`, sizes: ["S", "M", "L", "XL"] },
   { id: "remera6", name: "Remera Vintage - Crema", category: "REMERAS", price: 20000, image: `images/remera6.jpeg`, sizes: ["S", "M", "L", "XL"] },
